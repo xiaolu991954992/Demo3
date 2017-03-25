@@ -6,6 +6,6 @@ package cn.rankey.a;
 public class Hello1 {
     public void f1(){
         System.out.println("jdlasfkd");
-        System.out.println("jdlasfkd2");
+        System.out.println("jdlasfkd25656");
     }
 }
